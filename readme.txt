@@ -1,1 +1,1 @@
-Ö÷³ÌÐòÊÇmain.m
+This is the code for CubeDBSCAN.
